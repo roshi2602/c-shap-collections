@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\c shap collections\c shap collections\bin\Debug\c shap collections.exe.config
+C:\Users\lenovo\source\repos\c shap collections\c shap collections\bin\Debug\c shap collections.exe
+C:\Users\lenovo\source\repos\c shap collections\c shap collections\bin\Debug\c shap collections.pdb
+C:\Users\lenovo\source\repos\c shap collections\c shap collections\obj\Debug\c shap collections.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\c shap collections\c shap collections\obj\Debug\c shap collections.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\c shap collections\c shap collections\obj\Debug\c shap collections.exe
+C:\Users\lenovo\source\repos\c shap collections\c shap collections\obj\Debug\c shap collections.pdb
